@@ -1,0 +1,10 @@
+﻿,,Respond YES,Respond NO,,,,Respond YES,Respond NO
+(No tilt),Signal present ,Hit,Miss,,,Signal present ,130,19
+(Any tilt other than zero),Signal absent ,False alarm,Correct rejection,,,Signal absent ,34,102
+,,,,,,,,
+,,,,,,prop hit = hit/hit+miss,0.872483221,
+,,,,,,prop fa = fa/fa+corrrej,0.25,
+,,,,,,,,
+,,,,,,d-prime,1.812697946,
+,,,,,,,,
+,,,,,,c,-0.231859223,
